@@ -158,3 +158,19 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Arcgis log files
+optimized_routes/GpMessages
+optimized_routes/ImportLog
+optimized_routes/VRP.gdb/*
+optimized_routes/_ags_j08dce28bc7a44a5d83cbcedc2782e049.zip
+optimized_routes/_ags_jacd1d978fefb4b4988dae9bcd04a8bba.zip
+optimized_routes/VRP.aprx
+optimized_routes/VRP.atbx
+optimized_routes/PythonNotebook/VRP_MOOC.ipynb
+optimized_routes/PythonNotebook/vrp_mooc.ipynb.xml
+optimized_routes/Index
+optimized_routes/CSV_Metadata.txt
+optimized_routes/ProduceCustomers.csv
+*.DS_Store
